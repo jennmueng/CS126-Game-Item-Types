@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "itemName": "coin",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "sweatshirt",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "key",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "pizza",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "swag",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "USB-C connector",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "grading rubric",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "bagel",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "coffee",
+      "itemUse": "Looks like you're rich."
+    },
+    {
+      "itemName": "pencil",
+      "itemUse": "Looks like you're rich."
+    }
+  ]
+}
